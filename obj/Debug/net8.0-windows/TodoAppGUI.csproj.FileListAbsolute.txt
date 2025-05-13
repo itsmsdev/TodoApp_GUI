@@ -1,0 +1,14 @@
+C:\Users\msharma389\Downloads\dotnetprojects\TodoAppGUI\bin\Debug\net8.0-windows\TodoAppGUI.exe
+C:\Users\msharma389\Downloads\dotnetprojects\TodoAppGUI\bin\Debug\net8.0-windows\TodoAppGUI.deps.json
+C:\Users\msharma389\Downloads\dotnetprojects\TodoAppGUI\bin\Debug\net8.0-windows\TodoAppGUI.runtimeconfig.json
+C:\Users\msharma389\Downloads\dotnetprojects\TodoAppGUI\bin\Debug\net8.0-windows\TodoAppGUI.dll
+C:\Users\msharma389\Downloads\dotnetprojects\TodoAppGUI\bin\Debug\net8.0-windows\TodoAppGUI.pdb
+C:\Users\msharma389\Downloads\dotnetprojects\TodoAppGUI\obj\Debug\net8.0-windows\TodoAppGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msharma389\Downloads\dotnetprojects\TodoAppGUI\obj\Debug\net8.0-windows\TodoAppGUI.AssemblyInfoInputs.cache
+C:\Users\msharma389\Downloads\dotnetprojects\TodoAppGUI\obj\Debug\net8.0-windows\TodoAppGUI.AssemblyInfo.cs
+C:\Users\msharma389\Downloads\dotnetprojects\TodoAppGUI\obj\Debug\net8.0-windows\TodoAppGUI.csproj.CoreCompileInputs.cache
+C:\Users\msharma389\Downloads\dotnetprojects\TodoAppGUI\obj\Debug\net8.0-windows\TodoAppGUI.dll
+C:\Users\msharma389\Downloads\dotnetprojects\TodoAppGUI\obj\Debug\net8.0-windows\refint\TodoAppGUI.dll
+C:\Users\msharma389\Downloads\dotnetprojects\TodoAppGUI\obj\Debug\net8.0-windows\TodoAppGUI.pdb
+C:\Users\msharma389\Downloads\dotnetprojects\TodoAppGUI\obj\Debug\net8.0-windows\TodoAppGUI.genruntimeconfig.cache
+C:\Users\msharma389\Downloads\dotnetprojects\TodoAppGUI\obj\Debug\net8.0-windows\ref\TodoAppGUI.dll

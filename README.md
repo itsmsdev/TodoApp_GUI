@@ -1,1 +1,2 @@
-# TodoApp_GUI
+# TodoAPP_GUI
+To Do App - GUI WinForms
